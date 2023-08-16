@@ -142,7 +142,6 @@ Confusion Matrix:
 [[966   0]
  [ 22 127]]
 
-runfile('C:/Users/LENOVO/Downloads/Compressed/FNews/TP_SVM.py', wdir='C:/Users/LENOVO/Downloads/Compressed/FNews')
 5312
    age  height_cm  weight_kg  ...  sit-ups counts  broad jump_cm  Blass
 0   27      172.3      75.24  ...              60            217      B
