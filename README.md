@@ -1,4 +1,4 @@
-# NaiveBayes_With_ectorizers
+# NaiveBayes_With_Vectorizers
 The code performs text classification using Naive Bayes models (MultinomialNB, GaussianNB, and BernoulliNB.) on a dataset. It preprocesses data, uses 3 vectorization techniques  (CountVectorizer, TF-IDF Vectorizer, and Binary Vectorizer. ), and evaluates 9 models. Each model's accuracy, classification report, and confusion matrix are printed. Valuable for learning text classification and experimenting with models.
 
 
